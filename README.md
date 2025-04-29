@@ -24,7 +24,7 @@ These new features help reveal when customers shop the most and how sales vary b
 Exploratory Data Analysis (EDA)
 Using SQL queries to answer business questions about product performance, customer behavior, and revenue trends.
 
-Business Questions To Answer
+### **Business Questions To Answer**
 
 ### Generic Question
 
